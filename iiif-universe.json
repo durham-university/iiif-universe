@@ -70,6 +70,21 @@
       "@id": "https://figgy.princeton.edu/iiif/collections",
       "@type": "sc:Collection",
       "label": "Princeton University Library"
+    },
+    {
+      "@id": "https://iiif.manducus.net/collections/collection.json",
+      "@type": "sc:Collection",
+      "label": "manducus.net"
+    },
+    {
+      "@id": "https://iiif.ub.uni-leipzig.de/static/collections/toplevel.json",
+      "@type": "sc:Collection",
+      "label": "IIIF Collection for Leipzig University Library"
+    },
+    {
+      "@id": "https://iiif.library.utoronto.ca/presentation/v2/collections",
+      "@type": "sc:Collection",
+      "label": "University of Toronto Libraries"
     }
   ]
 }

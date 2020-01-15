@@ -31,7 +31,7 @@
       "description": "Top-level collection of IIIF manifests from the Bodleian Library and Oxford Colleges"
     },
     {
-      "@id": "http://biblissima.fr/iiif/collection/top",
+      "@id": "https://biblissima.fr/iiif/collection/top",
       "@type": "sc:Collection",
       "label": "Biblissima IIIF Collections",
       "description": "Collections of IIIF Manifests from Biblissima's image repositories"
@@ -55,6 +55,11 @@
       "@id": "https://iiif.harvardartmuseums.org/collections/top",
       "@type": "sc:Collection",
       "label": "Harvard Art Museums"
+    },
+    {
+      "@id": "https://iiif.hab.de/collection/project/mssox.json",
+      "@type": "sc:Collection",
+      "label": "Herzog August Bibliothek - The Polonsky Foundation Oxford-Wolfenbüttel German Manuscripts Digitization Project (2018-2021)"
     },
     {
       "@id": "http://jubilees.stmarytx.edu/iiifp/collection/JubPalProj.json",
